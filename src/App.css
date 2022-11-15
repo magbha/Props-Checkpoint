@@ -1,0 +1,11 @@
+.Appcon {
+  text-align: center;
+  display: flex;
+  margin: 90px;
+  justify-content: center;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
